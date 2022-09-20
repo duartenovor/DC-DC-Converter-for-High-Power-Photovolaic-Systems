@@ -1,0 +1,13 @@
+Added Component: Designator=GS1(Inductor)
+Added Component: Designator=GS2(Inductor)
+Added Pin To Net: NetName=NetGS1_1 Pin=GS1-1
+Added Pin To Net: NetName=NetGS1_1 Pin=GS2-1
+Added Net: Name=NetGS1_1
+Added Pin To Net: NetName=NetGS1_2 Pin=GS1-2
+Added Pin To Net: NetName=NetGS1_2 Pin=M1-1
+Added Net: Name=NetGS1_2
+Added Pin To Net: NetName=NetGS2_2 Pin=GS2-2
+Added Pin To Net: NetName=NetGS2_2 Pin=M2-1
+Added Net: Name=NetGS2_2
+Added Net: Name=NetZ1a_2
+Added Net: Name=NetZ2a_2

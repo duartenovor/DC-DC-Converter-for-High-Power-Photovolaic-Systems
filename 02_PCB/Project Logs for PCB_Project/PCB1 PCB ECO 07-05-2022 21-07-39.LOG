@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=OUT1 Pin=D1-1
+Removed Pin From Net: NetName=L1D1 Pin=D1-2
+Removed Pin From Net: NetName=OUT1 Pin=D2-1
+Removed Pin From Net: NetName=L2D2 Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=J7-1
+Removed Pin From Net: NetName=G1 Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J8-1
+Removed Pin From Net: NetName=G2 Pin=J8-2
+Removed Pin From Net: NetName=L1D1 Pin=L1-2
+Change Component Footprint: Designator=L1 Old Footprint= New Footprint=TermIND
+Change Component Footprint: Designator=L2 Old Footprint= New Footprint=TermIND
+Change Component Footprint: Designator=D1 Old Footprint=DIODE_TH_10.1 New Footprint=HEADER_MALE_TH_2P_2.54
+Change Component Footprint: Designator=D2 Old Footprint=DIODE_TH_10.1 New Footprint=HEADER_MALE_TH_2P_2.54
+Change Component Comment : Designator=D1 Old Comment=TLHR5400-AS12Z New Comment=TB004-508-02BE
+Change Component Comment : Designator=D2 Old Comment=TLHR5400-AS12Z New Comment=TB004-508-02BE
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIODE_TH_10.1"; UniqueID = "\IVPEVDRJ" ("\IVPEVDRJ")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tb004-508-02be/cui-inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/TB004-508-02BE.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "490-TB004-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TB004-508-02BE?qs=vLWxofP3U2zLwdGzG2tSkA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIODE_TH_10.1"; UniqueID = "\ZPGAAEJS" ("\ZPGAAEJS")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tb004-508-02be/cui-inc"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/TB004-508-02BE.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "14.1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "490-TB004-508-02BE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TB004-508-02BE?qs=vLWxofP3U2zLwdGzG2tSkA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IN1(CONN_8191_KEY)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "8191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=IN2(CONN_8191_KEY)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "8191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HEADER_MALE_TH_2P_2.54)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tb004-508-02be/cui-inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/TB004-508-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TB004-508-02BE?qs=vLWxofP3U2zLwdGzG2tSkA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HEADER_MALE_TH_2P_2.54)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/tb004-508-02be/cui-inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/TB004-508-02BE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "490-TB004-508-02BE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/CUI-Devices/TB004-508-02BE?qs=vLWxofP3U2zLwdGzG2tSkA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=OUT1(CONN_8191_KEY)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "8191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=OUT2(CONN_8191_KEY)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2022 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "8191"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L1D1 Pin=D1-1
+Added Pin To Net: NetName=OUT1 Pin=D1-2
+Added Pin To Net: NetName=L2D2 Pin=D2-1
+Added Pin To Net: NetName=OUT1 Pin=D2-2
+Added Pin To Net: NetName=GND Pin=IN2-1
+Added Pin To Net: NetName=GND Pin=IN2-2
+Added Pin To Net: NetName=GND Pin=IN2-3
+Added Pin To Net: NetName=GND Pin=IN2-4
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=G1 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=G2 Pin=J2-2
+Added Pin To Net: NetName=L1D1 Pin=L1-1
+Added Pin To Net: NetName=L1D1 Pin=L1-1
+Added Pin To Net: NetName=OUT1 Pin=OUT1-1
+Added Pin To Net: NetName=OUT1 Pin=OUT1-2
+Added Pin To Net: NetName=OUT1 Pin=OUT1-3
+Added Pin To Net: NetName=OUT1 Pin=OUT1-4
+Added Pin To Net: NetName=GND Pin=OUT2-1
+Added Pin To Net: NetName=GND Pin=OUT2-2
+Added Pin To Net: NetName=GND Pin=OUT2-3
+Added Pin To Net: NetName=GND Pin=OUT2-4
+Added Pin To Net: NetName=IN1 Pin=IN1-1
+Added Pin To Net: NetName=IN1 Pin=IN1-2
+Added Pin To Net: NetName=IN1 Pin=IN1-3
+Added Pin To Net: NetName=IN1 Pin=IN1-4
+Added Net: Name=IN1

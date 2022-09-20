@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=INL Pin=SIN-2
+Added Component: Designator=CS1(Inductor)
+Added Pin To Net: NetName=INL Pin=CS1-2
+Added Pin To Net: NetName=NetCS1_1 Pin=CS1-1
+Added Pin To Net: NetName=NetCS1_1 Pin=IN1-1
+Added Pin To Net: NetName=NetCS1_1 Pin=IN1-1
+Added Pin To Net: NetName=NetCS1_1 Pin=IN1-1
+Added Pin To Net: NetName=NetCS1_1 Pin=IN1-1
+Added Pin To Net: NetName=NetCS1_1 Pin=VS1-1
+Added Net: Name=NetCS1_1

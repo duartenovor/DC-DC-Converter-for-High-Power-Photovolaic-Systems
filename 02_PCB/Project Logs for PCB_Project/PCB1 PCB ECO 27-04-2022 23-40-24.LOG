@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=Z1a-2
+Added Pin To Net: NetName=GND Pin=Z1b-2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=L1D1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=L2D2
+Change Net Name : Old Net Name=NetGS1_2 New Net Name=G1
+Change Net Name : Old Net Name=NetGS2_2 New Net Name=G2
+Change Net Name : Old Net Name=NetL1_1 New Net Name=INL
+Change Net Name : Old Net Name=NetZ2a_2 New Net Name=Z2

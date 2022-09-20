@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=L1D1 Pin=D1-1
+Removed Pin From Net: NetName=OUT1 Pin=D1-2
+Removed Pin From Net: NetName=L2D2 Pin=D2-1
+Removed Pin From Net: NetName=OUT1 Pin=D2-2
+Change Component Footprint: Designator=D1 Old Footprint=HEADER_MALE_TH_2P_2.54 New Footprint=TERMINAL_CIN_TH_2P_5.08
+Change Component Footprint: Designator=D2 Old Footprint=HEADER_MALE_TH_2P_2.54 New Footprint=TERMINAL_CIN_TH_2P_5.08
+Added Pin To Net: NetName=OUT1 Pin=D1-1
+Added Pin To Net: NetName=L1D1 Pin=D1-2
+Added Pin To Net: NetName=OUT1 Pin=D2-1
+Added Pin To Net: NetName=L2D2 Pin=D2-2
